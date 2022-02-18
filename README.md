@@ -11,4 +11,12 @@ Hai script kiddies... Perkenalkan Tools Kakkoi Spammer yg saya buat, dan sya men
 - Mavia Teknologi
 - Three Master The Movie
 - anonghost INDO
-# By² 👋
+# Can be installed via
+
+- Termux
+
+- Kali
+
+- Ubuntu
+
+# By²👋
