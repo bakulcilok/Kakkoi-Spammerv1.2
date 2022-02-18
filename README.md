@@ -4,7 +4,7 @@ Hai script kiddies... Perkenalkan Tools Kakkoi Spammer yg saya buat, dan sya men
 - Facebook : Kakkoi Namae II 
 - WhatsApp : 085823104620 
 - Instagram: Zacky_Sec
-# Thanks For 
+# Thanks For Programmer Sc
 - Xenzi Ganz 
 - MR.Dark
 # Thanks For Team 
