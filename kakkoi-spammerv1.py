@@ -612,5 +612,3 @@ def spam():
 		time.sleep(1)
 		spam()
 spam()
-#selesai
-
